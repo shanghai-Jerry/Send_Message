@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/CHAOJIANG/Desktop/Send_Message/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CHAOJIANG/Desktop/Send_Message/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CHAOJIANG/Desktop/Send_Message/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CHAOJIANG/Desktop/Send_Message/jxl-2.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

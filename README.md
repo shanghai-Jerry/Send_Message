@@ -5,5 +5,7 @@ and then check their birthday,if today is his/her birthday,after you push the se
 Requirement for this application:
 
 1.Make sure your PC have install the jdk to run this application(jdk1.7 or higher version).
+
 2.If you want to send mmessages,you have to register an account in webchinese.cn.(Via:http://sms.webchinese.com.cn/default.shtml).
+
 3.Get phone numbers from excel,you must follow the Excel template. 
